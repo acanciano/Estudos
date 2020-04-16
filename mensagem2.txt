@@ -1,0 +1,2 @@
+ls
+diretorios de analise de pastas
